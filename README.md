@@ -1,8 +1,8 @@
 # bioinformatics-foundations
-Learning-focused bioinformatics analyses using real biological data, with emphasis on gene expression, visualisation, and biological interpretation.
 
-# Bioinformatics Foundations
 This repository documents my learning and practice in basic bioinformatics analysis.
+
+The focus of this repository is on understanding biological data, performing basic analysis, and interpreting results in a biological context.
 
 ## Focus areas
 - Gene expression data
